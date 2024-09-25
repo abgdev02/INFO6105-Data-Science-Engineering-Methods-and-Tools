@@ -15,10 +15,6 @@ You can switch to these branches to view the corresponding files.
 
 The following assignments are completed and available in the `assignments` branch:
 
-1. **Fibonacci, Primes, and Optimized Dictionary Search**: 
-- Includes implementing iterative, recursive, and generator-based solutions for Fibonacci numbers, writing code to determine prime numbers (including a one-liner version), and developing a self-improving AI to detect prime numbers.
-- Additionally, I worked on extracting time-specific sentences from Chinese and Hindi dictionaries and optimized the solution with concise Python code to achieve faster execution.
-
 2. **Probability Distributions and F1 Racing Predictions**: 
 - Calculates the probability distributions for F1 drivers to win the first three races (Bahrain, Saudi Arabia, Australia) using 2023 driver standings.
 - It includes Red Bull’s chances of winning one or more races, weather impact on race outcomes, and predictions for Lewis Hamilton’s performance with Ferrari in 2024 based on historical data
