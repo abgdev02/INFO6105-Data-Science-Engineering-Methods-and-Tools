@@ -1,6 +1,6 @@
 # INFO6105 - Data Science Engineering Methods and Tools
 
-This repository contains assignments and the final project for the course **INFO 6105 - Data Science Engineering Methods and Tools** taught by Dino (Constantin) Konstantopoulos at Northeastern University. The course covers foundational concepts in Data Science, Machine Learning, and Python, emphasizing NumPy, Pandas, SciPy, and Scikit-learn libraries.
+This repository contains **two branches: assignments and the final project** for the course **INFO 6105 - Data Science Engineering Methods and Tools** taught by Dino (Constantin) Konstantopoulos at Northeastern University. The course covers foundational concepts in Data Science, Machine Learning, and Python, emphasizing NumPy, Pandas, SciPy, and Scikit-learn libraries.
 
 ## Repository Structure
 
